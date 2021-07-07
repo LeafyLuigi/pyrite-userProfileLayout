@@ -1,0 +1,8 @@
+{
+    "name": "Pyrite User Modal Layout",
+    "description": "User Modal Layout from Pyrite. Should work with most themes.",
+    "version": "1.0.0",
+    "author": "LeafyLuigi",
+    "theme": "userModalLayout.theme.css",
+    "license": "MIT"
+}

@@ -1,0 +1,7 @@
+/*! Pyrite User Modal Layout (standalone) by LeafyLuigi */
+@import url(https://leafyluigi.github.io/discord-themes/pyrite/build/userModalLayout.css);
+
+:root{
+  --user-modal-width: 900px;
+  --user-modal-height: 600px;
+}
